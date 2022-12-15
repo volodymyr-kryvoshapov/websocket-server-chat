@@ -21,8 +21,7 @@ including that client who send a message.
 
 ws://localhost:8080
 
-If 8080 port is busy You can change it provide any another port changing constant in file `.
-/index.mjs`
+If 8080 port is busy you can change it by changing constant in file `./index.mjs`
 
 ```javascript
 const PORT = 8080;
