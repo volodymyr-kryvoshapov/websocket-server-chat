@@ -19,7 +19,7 @@ including that client who send a message.
 
 ## Use this URL in order to connect to the server from your client application:
 
-ws://localhost:8080
+`ws://localhost:8080`
 
 If 8080 port is busy you can change it by changing constant in file `./index.mjs`
 
